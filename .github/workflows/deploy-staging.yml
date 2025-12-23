@@ -1,3 +1,6 @@
+# My first workflow
+# This workflow updates from step 0 to step 1.
+
 name: Stage the app
 
 on:
